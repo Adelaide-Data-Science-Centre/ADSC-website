@@ -4,5 +4,17 @@
   },
   "about.qmd": {
     "about.html": "2b7a04ca"
+  },
+  "steering_committee.qmd": {
+    "steering_committee.html": "cd544052"
+  },
+  "industy_partners.qmd": {
+    "industy_partners.html": "14341836"
+  },
+  "test.qmd": {
+    "test.html": "1a644f2a"
+  },
+  "partners.qmd": {
+    "partners.html": "3dc96f39"
   }
 }

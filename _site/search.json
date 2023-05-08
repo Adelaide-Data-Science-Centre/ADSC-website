@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "website",
+    "title": "Adelaide Data Science Centre",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "ggdfgd"
   },
   {
     "objectID": "about.html",
@@ -12,5 +12,40 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "steering_committee.html",
+    "href": "steering_committee.html",
+    "title": "Steering Committee",
+    "section": "",
+    "text": "fddfgsdsd"
+  },
+  {
+    "objectID": "industy_partners.html",
+    "href": "industy_partners.html",
+    "title": "Industry Partners",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "steering_committee.html#person-2",
+    "href": "steering_committee.html#person-2",
+    "title": "Steering Committee",
+    "section": "Person 2",
+    "text": "Person 2\ndgggsdg"
+  },
+  {
+    "objectID": "index.html#what-we-do",
+    "href": "index.html#what-we-do",
+    "title": "Adelaide Data Science Centre",
+    "section": "What we do",
+    "text": "What we do\ngzgdgdf"
+  },
+  {
+    "objectID": "index.html#upcoming-events",
+    "href": "index.html#upcoming-events",
+    "title": "Adelaide Data Science Centre",
+    "section": "Upcoming events",
+    "text": "Upcoming events\ngddgfgds"
   }
 ]

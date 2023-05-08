@@ -1,11 +1,12 @@
 ---
-title: "website"
+title: "Adelaide Data Science Centre"
 ---
 
-This is a Quarto website.
+## Who we are
+ggdfgd
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+## What we do
+gzgdgdf
 
-```{r}
-1 + 1
-```
+## Upcoming events
+gddgfgds
