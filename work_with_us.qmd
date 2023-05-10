@@ -2,12 +2,6 @@
 title: "Work with us"
 ---
 
-```{r}
-#| include: false
-
-pacman::p_load(here)
-```
-
 
 TBD: link the below to individual webpages, or to email(s). 
 
@@ -23,3 +17,4 @@ Sponsorships
 General Enquiries
 
 Also see [Our Events page](events.qmd).
+
