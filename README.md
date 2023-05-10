@@ -1,8 +1,3 @@
----
-title: "readme"
-format: pdf
----
-
 The quarto files in this folder are the website pages.
 
 After edits, you can check on the website appearance by knitting `index.qmd` or *building* the project (Cmd-Shift-B). For best results, open `website.Rproj` so that you work in the correct project.
