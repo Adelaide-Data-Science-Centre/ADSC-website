@@ -18,8 +18,6 @@
 # Output files from R CMD check
 /*.Rcheck/
 
-
-
 # RStudio files
 .Rproj.user/
 
@@ -40,9 +38,6 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
-
-# pkgdown site
-docs/
 
 # translation temp files
 po/*~
