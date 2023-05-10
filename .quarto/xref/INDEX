@@ -16,5 +16,17 @@
   },
   "partners.qmd": {
     "partners.html": "3dc96f39"
+  },
+  "our_people.qmd": {
+    "our_people.html": "8e695bd3"
+  },
+  "work_with_us.qmd": {
+    "work_with_us.html": "97ba60b0"
+  },
+  "events.qmd": {
+    "events.html": "77d36cfe"
+  },
+  "code_of_conduct.qmd": {
+    "code_of_conduct.html": "f84258f5"
   }
 }
