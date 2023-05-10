@@ -75,5 +75,33 @@
     "title": "Our People",
     "section": "Students",
     "text": "Students"
+  },
+  {
+    "objectID": "partners.html#australian-data-science-networkhttpswww.australiandatascience.netpartners",
+    "href": "partners.html#australian-data-science-networkhttpswww.australiandatascience.netpartners",
+    "title": "Partners",
+    "section": "[Australian Data Science Network]{https://www.australiandatascience.net/partners/}",
+    "text": "[Australian Data Science Network]{https://www.australiandatascience.net/partners/}"
+  },
+  {
+    "objectID": "partners.html#industry-partners",
+    "href": "partners.html#industry-partners",
+    "title": "Partners",
+    "section": "Industry partners",
+    "text": "Industry partners"
+  },
+  {
+    "objectID": "partners.html#australian-data-science-network",
+    "href": "partners.html#australian-data-science-network",
+    "title": "Partners",
+    "section": "Australian Data Science Network",
+    "text": "Australian Data Science Network"
+  },
+  {
+    "objectID": "partners.html",
+    "href": "partners.html",
+    "title": "Partners",
+    "section": "",
+    "text": "The aim of the Australian Data Science Network (ADSN) is to connect the concentrations of expertise in data science across Australia, in order to improve communication, encourage collaboration, expand opportunities, and promote our individual and collective capabilities.\n\n\n\n\n\n\nThe Australian Institute for Machine Learning (AIML) conducts globally competitive research and development in artificial intelligence (AI), machine learning, computer vision and deep learning."
   }
 ]
