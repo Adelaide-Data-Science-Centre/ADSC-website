@@ -4,12 +4,16 @@ title: "Adelaide Data Science Centre"
 
 ## Who we are
 
-ggdfgd
+The ADSC is a leading data science research and training centre within the Australian Data Science Network, known in particular for our expertise in modelling as a key component of the data science process. By this we mean mathematical and statistical modelling – explainable, generative descriptions of systems having clearly articulated assumptions and developed through iterative discussions with end-users. The ADSC is an interdisciplinary hub, enabling researchers from across the new SET Faculty and University, who want to apply statistical data science techniques in their own domain, through collaboration, provision of regular data science consulting and training courses.
 
 ## What we do
 
-gzgdgdf
+We are a network of data scientists that span the whole of the University of Adelaide. We are academics, students and industry partners. We cover three main research themes:
 
-## Upcoming events
+- Challenging Data
 
-gddgfgds
+- Mathematical Modelling
+
+- Trustworthiness & Explainability
+
+And we do all of this while upholding strong foundational principles of integrity collaboration, equity and diversity.
