@@ -4,48 +4,46 @@ title: "Our People"
 
 ## Steering committee
 
-```{r, echo = F}
+```{r, echo = F, results = 'asis'}
 pacman::p_load(readxl)
 people <- read_excel("Resources/our_people_content.xlsx")
 
 info <- function(x){
   # Name
-  cat(paste0("", people[x,1]), fill = T)
+  cat(paste0("#### ", people[x,1],"  "), fill = T)
   # Title
-  cat(paste0("Title: ", people[x,2]), fill = T)
+  cat(paste0("**", people[x,2],"**  "), fill = T)
   # Email
-  cat(paste0("Email: ", people[x,3]), fill = T)
+  cat(paste0("Email: [",people[x,3],"]","(mailto:", people[x,3],")  "), fill = T)
   # Website
   if(!is.na(people[x,4])){
-  cat(paste0("Website: ", people[x,4]), fill = T)
+    cat(paste0("Website: [",people[x,4],"]","(", people[x,4],")  "), fill = T)
   }
   # Personal website
   if(!is.na(people[x,5])){
-  cat(paste0("Personal Website: ", people[x,5]), fill = T)
+    cat(paste0("Personal Website: [",people[x,5],"]","(", people[x,5],")  "), fill = T)
   }
   if(!is.na(people[x,6])){
-  cat(paste0("", people[x,6]), fill = T)
+  cat(paste0(people[x,6]), fill = T)
   }
   cat("", fill = T)
   cat("", fill = T)
 }
 ```
 
-```{r, echo = F}
+```{r, echo = F, results = 'asis'}
 for(i in 1:10){
   info(i)
 }
 ```
 
-
 ## Affiliates
 
-```{r, echo = F}
+```{r, echo = F, results = 'asis'}
 for(i in 11:nrow(people)){
   info(i)
 }
 ```
-
 
 ## Students
 
