@@ -8,8 +8,11 @@ website:
     left:
       - text: "Home"
         file: index.qmd
-      - steering_committee.qmd
+      - our_people.qmd
       - partners.qmd
+      - events.qmd
+      - work_with_us.qmd
+      - code_of_conduct.qmd
       
 format:
   html:
