@@ -3,34 +3,37 @@ title: "Events"
 ---
 
 ```{r, echo = F, results = 'asis'}
-pacman::p_load(readxl)
+pacman::p_load(readxl, lubridate)
 events <- read_excel("Resources/events_for_website.xlsx")
 
 info <- function(x){
-  # Date
-  cat(paste0("#### ", events[x,1],"  "), fill = T)
-  # Speaker
-  cat(paste0("**", events[x,2],"**  "), fill = T)
-  # Location
-  cat(paste0("Location: ",events[x,3], "  "), fill = T)
-  # Time
-  cat(paste0("Time: ",events[x,4], "  "), fill = T)
-  # Topic
-  if(!is.na(events[x,5])){
-    cat(paste0("Topic: ",events[x,5], "  "), fill = T)
+  if(dmy(events[x,1]) >= today()){ # only include future events
+    # Date
+    cat(paste0("#### ", events[x,2], ", ", events[x,1], "  "), fill = T)
+    # Speaker
+    cat(paste0("**", events[x,3],"**  "), fill = T)
+    # Location
+    cat(paste0("Location: ",events[x,4], "  "), fill = T)
+    # Time
+    cat(paste0("Time: ",events[x,5], "  "), fill = T)
+    # Topic
+    if(!is.na(events[x,6])){
+      cat(paste0("Topic: ",events[x,6], "  "), fill = T)
+    }
+    # Abstract
+    if(!is.na(events[x,7])){
+      cat(paste0("Abstract: ",events[x,7], "  "), fill = T)
+    }
+    cat("  ", fill = T)
+    cat("  ", fill = T)
   }
-  # Topic
-  if(!is.na(events[x,6])){
-    cat(paste0("Abstract: ",events[x,6], "  "), fill = T)
-  }
-  cat("  ", fill = T)
-  cat("  ", fill = T)
 }
 ```
+
+## Upcoming events
 
 ```{r, echo = F, results = 'asis'}
 for(i in 1:nrow(events)){
   info(i)
 }
 ```
-
