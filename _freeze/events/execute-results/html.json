@@ -1,8 +1,10 @@
 {
-  "hash": "c66d121b1ef7bedd35ae3791ce33c33c",
+  "hash": "0730820d7a57e1e55211396639777804",
   "result": {
-    "markdown": "---\ntitle: \"Events\"\n---\n\n\n\n\n## Upcoming events\n\n\n#### Thursday, 1 June 2023  \n**Michele Sasdelli**  \nLocation: Napier 209  \nTime: 10:00 AM  \nTopic: Introduction to Quantum Computing  \n  \n  \n#### Thursday, 29 June 2023  \n**George Stamatescu**  \nLocation: Napier 209  \nTime: 10:00 AM  \nTopic: Reinforcement Learning  \n  \n  \n",
-    "supporting": [],
+    "markdown": "---\ntitle: \"Events\"\n---\n\n\n\n\n## Upcoming events\n\n\n#### Thursday, 29 June 2023  \n**George Stamatescu**  \nLocation: Napier 209  \nTime: 10:00 AM  \nTopic: Reinforcement Learning  \n  \n  \n",
+    "supporting": [
+      "events_files"
+    ],
     "filters": [
       "rmarkdown/pagebreak.lua"
     ],
