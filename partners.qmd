@@ -8,18 +8,14 @@ title: "Partners"
 
 The aim of the Australian Data Science Network (ADSN) is to connect the concentrations of expertise in data science across Australia, in order to improve communication, encourage collaboration, expand opportunities, and promote our individual and collective capabilities.
 
-
 ## Data Analytics Working Group (DAWG)
+
 Info goes here
 
 ## SQUAD
+
 Info goes here
 
 ## [Australian Insitute for Machine Learning](https://www.adelaide.edu.au/aiml/)
 
 The Australian Institute for Machine Learning (AIML) conducts globally competitive research and development in artificial intelligence (AI), machine learning, computer vision and deep learning.
-
-# Industry partners
-
-Info goes here
-
